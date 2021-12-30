@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@300;400;500;700&display=swap');
+
+:root {
+  --main-text-color: #FFFFFF;
+  --main-button-color: #65C466;
+  --background-color: #1C1C1D;
+  --main-highlight-color: #330053;
+  --error-color: #c46565;
+  -webkit-overflow-scrolling: touch;
+  overflow: 'hidden';
+  position: fixed;
+}
+
+html {
+  position: fixed;
+}
+
+body {
+  background-color: var(--background-color);
+  margin: 0;
+  font-family: 'Maven Pro', sans-serif;
+  color: var(--main-text-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+  overflow: 'hidden';
+  position: fixed;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
