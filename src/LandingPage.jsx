@@ -98,7 +98,7 @@ export default function LandingPage() {
               <span
                 style={{
                   textAlign: "right",
-                  fontSize: "15px",
+                  fontSize: isBrowser ? "15px" : '10px',
                   fontWeight: "200",
                 }}
               >
