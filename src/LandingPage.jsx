@@ -92,8 +92,8 @@ export default function LandingPage() {
                 width: "80vw",
               }}
             >
-              Sentient trading platform that utilizes human sentinent, social
-              trends and culture to facilitate automated trades within the
+              Sentient trading platform that utilizes human sentiment, social
+              trends and culture to facilitate programmatic trades within the
               market. <br />{" "}
               <span
                 style={{
