@@ -94,7 +94,7 @@ export default function LandingPage() {
             >
               Sentient trading platform that utilizes human sentiment, social
               trends and culture to facilitate programmatic trades within the
-              market. <br />{" "}
+              stock market. <br />{" "}
               <span
                 style={{
                   textAlign: "right",
